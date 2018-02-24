@@ -10,3 +10,6 @@ Perview Here :
   
 # Forget  
 https://krishnabharambe.github.io/loginregister/forgot.html
+
+# Reset Password
+https://krishnabharambe.github.io/loginregister/reset.html
